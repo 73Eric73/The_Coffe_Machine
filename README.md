@@ -1,5 +1,5 @@
-The_Coffe_Machine
-=================
+The_Coffe_Machine ☕
+=====================
 A project of a coffee machine coded in java
 -------------------------------------------
 This is one of my initial projects; I've created a friendly coffee machine in Java.  
